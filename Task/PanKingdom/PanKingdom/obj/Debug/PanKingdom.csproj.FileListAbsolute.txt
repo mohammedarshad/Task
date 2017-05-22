@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\bin\Debug\PanKingdom.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\bin\Debug\PanKingdom.exe
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\bin\Debug\PanKingdom.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.exe
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.pdb
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\Materialist.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\Materialist.baml

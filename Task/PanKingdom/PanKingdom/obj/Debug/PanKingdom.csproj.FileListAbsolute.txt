@@ -12,3 +12,19 @@ c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\D
 c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\PanKingdom.pdb
 c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\Materialist.g.cs
 c:\users\admin\documents\visual studio 2015\Projects\PanKingdom\PanKingdom\obj\Debug\Materialist.baml
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\bin\Debug\PanKingdom.exe.config
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.exe
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.pdb
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\bin\Debug\PanKingdom.exe
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\bin\Debug\PanKingdom.pdb
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.csprojResolveAssemblyReference.cache
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\Materialist.g.cs
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\App.g.cs
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom_MarkupCompile.cache
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom_MarkupCompile.lref
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\Materialist.baml
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.g.resources
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.Properties.Resources.resources
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\obj\Debug\PanKingdom.csproj.GenerateResource.Cache
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\bin\Debug\System.Data.SqlServerCe.dll
+D:\arshad_task\Task\Task\PanKingdom\PanKingdom\bin\Debug\System.Data.SqlServerCe.Entity.dll

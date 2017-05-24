@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PanKingdom"
         mc:Ignorable="d"
-        Title="Material List" Height="363.652" Width="749.645" Background="LAVENDER">
+        Title="MaterialList" Height="363.652" Width="749.645" Background="LAVENDER">
     <Grid Margin="0,0,-37,-265">
         <Label x:Name="label" Content="Code:" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="82,4,0,0"/>
